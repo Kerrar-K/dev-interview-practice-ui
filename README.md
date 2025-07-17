@@ -1,2 +1,2 @@
 # dev-interview-practice-ui
-Frontend for technical interview practice app
+Frontend for technical interview practice app.
